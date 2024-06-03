@@ -30,6 +30,7 @@ const createTable = (number, multiNumber) => {
     multiplicationTitle.innerText = number
 }
 
+
 // Eventos
 
 multiplicationForm.addEventListener("submit", (e)=>{
